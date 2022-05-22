@@ -1,3 +1,13 @@
+#Hough Transformation
+
+This projects takes the help of below mention project and improves it. There is also comparison between improved and old version, it also include implementation of Dense hough transformation and comparison between normal and dense hough transformation.
+
+To reproduce the result from this project use the provided dockerfile and docker build script.
+
+DHT : https://hal.archives-ouvertes.fr/hal-01119654/document
+
+HT : http://www.sci.utah.edu/~acoste/uou/Image/project4/ArthurCOSTE_Project4.pdf
+
 hough
 =====
 

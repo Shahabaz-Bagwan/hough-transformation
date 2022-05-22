@@ -32,7 +32,7 @@
 //
 // **********************************************************************************
 
-#include "hough.h"
+#include <houghTransformation/hough.h>
 #include <cmath>
 #include <iostream>
 #include <string.h>

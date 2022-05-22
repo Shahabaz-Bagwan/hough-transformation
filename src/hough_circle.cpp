@@ -5,7 +5,7 @@
  *      Author: bruno
  */
 
-#include "hough_circle.h"
+#include <houghTransformation/hough_circle.h>
 
 #include <cmath>
 #include <iostream>
